@@ -1,5 +1,5 @@
 import classNames from "classnames";
-import { empty } from "./puzzle";
+import { empty } from "./Puzzle";
 import React from "react";
 
 const Cell = ({ children, onClick, canMove }) => {

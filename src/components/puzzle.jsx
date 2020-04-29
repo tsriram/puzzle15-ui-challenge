@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Cell from "./cell";
+import Cell from "./Cell";
 
 // static array for now
 const initialState = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, -1];
